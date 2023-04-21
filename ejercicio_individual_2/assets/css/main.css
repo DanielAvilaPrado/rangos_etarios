@@ -1,0 +1,45 @@
+body {
+    background-image: url(../img/Back.jpg);
+    background-size: cover;
+}
+
+header {
+    font-family: 'Aboreto', cursive;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+h3 {
+    margin: 1rem;
+    text-align: center;
+}
+
+main {
+    font-family: 'Courgette', cursive;
+}
+
+section {
+    text-align: center;
+}
+
+#resultados, #tuEdad {
+text-align: center;
+}
+
+#resultados img {
+    border-radius: 1rem;
+}
+
+.contenedor {
+    background-color: rgba(82, 233, 188, 0.425);
+    border-radius: 1rem;
+    padding-bottom: 2rem;
+    font-family: 'Aboreto';
+    font-weight: bold;
+    font-size:larger;
+    color: hsl(317, 88%, 3%);
+}
